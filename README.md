@@ -10,10 +10,10 @@ analyze texts and answer simple who, what, when, where, and why
 questions.
 
 ## Team ##
-John Wilde
-Ben Sherman
+John Wilde  
+Ben Sherman  
 Ryan Kwok  
-Henry Ball
+Henry Ball  
 
 ## Usage ##
 The main program is QA2.py, which is a slightly modified version of
