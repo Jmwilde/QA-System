@@ -1,0 +1,140 @@
+QuestionId: fables-06-1
+Where	WRB	5	advmod
+was	VBD	5	aux
+the	DT	4	det
+lion	NN	5	nsubj
+sleeping	VBG	0	root
+
+QuestionId: fables-06-9
+What	WDT	2	nsubj
+woke	VBD	0	root
+up	RP	2	compound:prt
+the	DT	5	det
+lion	NN	2	dobj
+
+QuestionId: fables-06-10
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+trapper	NN	5	nsubj
+spread	VBD	0	root
+some	DT	7	det
+net	NN	5	dobj
+
+QuestionId: fables-06-11
+Who	WP	2	nsubj
+entreated	VBN	0	root
+the	DT	4	det
+lion	NN	2	dobj
+
+QuestionId: fables-06-12
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+mouse	NN	5	nsubj
+recognize	VB	0	root
+
+QuestionId: fables-06-13
+What	WP	5	nmod
+were	VBD	5	auxpass
+the	DT	4	det
+ropes	NNS	5	nsubjpass
+gnawed	VBN	0	root
+with	IN	1	case
+
+QuestionId: fables-06-14
+Who	WP	2	nsubj
+expressed	VBD	0	root
+mirth	NN	2	dobj
+
+QuestionId: fables-06-15
+Who	WP	2	nsubj
+gnawed	VBD	0	root
+the	DT	4	det
+bungee	NN	2	dobj
+
+QuestionId: fables-06-16
+Why	WRB	7	advmod
+did	VBD	7	aux
+the	DT	4	det
+king	NN	7	nsubj
+of	IN	6	case
+beasts	NNS	4	nmod
+laugh	VB	0	root
+
+QuestionId: fables-06-17
+Who	WP	2	dep
+entangled	JJ	0	root
+himself	PRP	2	nmod
+in	IN	6	case
+the	DT	6	det
+meshing	NN	3	nmod
+
+QuestionId: fables-06-18
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+hunter	NN	5	nsubj
+spread	VB	0	root
+
+QuestionId: fables-06-2
+Who	WP	0	root
+is	VBZ	1	cop
+terrified	VBN	1	nsubj
+
+QuestionId: fables-06-3
+What	WDT	2	nsubj
+amused	VBD	0	root
+the	DT	4	det
+Lion	NNP	2	dobj
+so	RB	6	advmod
+much	RB	2	advmod
+
+QuestionId: fables-06-4
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+Lion	NNP	5	nsubj
+get	VB	0	root
+entangled	JJ	5	xcomp
+in	IN	8	case
+one	CD	6	nmod
+day	NN	5	nmod:tmod
+
+QuestionId: fables-06-5
+Why	WRB	5	advmod
+was	VBD	5	auxpass
+the	DT	4	det
+lion	NN	5	nsubjpass
+awaked	VBN	0	root
+
+QuestionId: fables-06-6
+Who	WP	2	nsubj
+spread	VBD	0	root
+some	DT	4	det
+net	NN	2	dobj
+in	IN	8	mark
+order	NN	5	mwe
+to	TO	8	mark
+catch	VB	2	advcl
+a	DT	11	det
+big	JJ	11	amod
+game	NN	8	dobj
+
+QuestionId: fables-06-7
+Who	WP	2	dep
+entangled	JJ	0	root
+himself	PRP	2	nmod
+in	IN	6	case
+the	DT	6	det
+net	NN	3	nmod
+
+QuestionId: fables-06-8
+What	WP	7	dobj
+did	VBD	6	aux
+the	DT	4	det
+mouse	NN	6	nsubj
+immediately	RB	6	advmod
+begin	VB	0	root
+gnawing	VBG	6	xcomp
+

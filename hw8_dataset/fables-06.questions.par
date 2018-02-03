@@ -1,0 +1,54 @@
+QuestionId: fables-06-1
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD was) (NP (DT the) (NN lion)) (VP (VBG sleeping))) (. ?)))
+
+QuestionId: fables-06-9
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD woke) (PRT (RP up)) (NP (DT the) (NN lion)))) (. ?)))
+
+QuestionId: fables-06-10
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (DT the) (NN trapper)) (VP (VBD spread) (NP (DT some) (NN net)))) (. ?)))
+
+QuestionId: fables-06-11
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBN entreated) (NP (DT the) (NN lion)))) (. ?)))
+
+QuestionId: fables-06-12
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN mouse)) (VP (VB recognize))) (. ?)))
+
+QuestionId: fables-06-13
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD were) (NP (DT the) (NNS ropes)) (VP (VBN gnawed) (PP (IN with)))) (. ?)))
+
+QuestionId: fables-06-14
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD expressed) (NP (NN mirth)))) (. ?)))
+
+QuestionId: fables-06-15
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD gnawed) (NP (DT the) (NN bungee)))) (. ?)))
+
+QuestionId: fables-06-16
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD did) (NP (NP (DT the) (NN king)) (PP (IN of) (NP (NNS beasts)))) (VP (VB laugh))) (. ?)))
+
+QuestionId: fables-06-17
+(ROOT (FRAG (WHNP (WP Who)) (ADVP (JJ entangled)) (PP (NP (PRP himself)) (PP (IN in) (NP (DT the) (NN meshing)))) (. ?)))
+
+QuestionId: fables-06-18
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN hunter)) (VP (VB spread))) (. ?)))
+
+QuestionId: fables-06-2
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VBZ is) (NP (VBN terrified))) (. ?)))
+
+QuestionId: fables-06-3
+(ROOT (SBARQ (WHNP (WDT What)) (SQ (VP (VBD amused) (NP (DT the) (NNP Lion)) (ADVP (RB so) (RB much)))) (. ?)))
+
+QuestionId: fables-06-4
+(ROOT (SBARQ (WHADVP (WRB Where)) (SQ (VBD did) (NP (DT the) (NNP Lion)) (VP (VB get) (ADJP (JJ entangled) (PP (IN in) (NP (CD one)))) (NP (NN day)))) (. ?)))
+
+QuestionId: fables-06-5
+(ROOT (SBARQ (WHADVP (WRB Why)) (SQ (VBD was) (NP (DT the) (NN lion)) (VP (VBN awaked))) (. ?)))
+
+QuestionId: fables-06-6
+(ROOT (SBARQ (WHNP (WP Who)) (SQ (VP (VBD spread) (NP (DT some) (NN net)) (SBAR (IN in) (NN order) (S (VP (TO to) (VP (VB catch) (NP (DT a) (JJ big) (NN game)))))))) (. ?)))
+
+QuestionId: fables-06-7
+(ROOT (FRAG (WHNP (WP Who)) (ADVP (JJ entangled)) (PP (NP (PRP himself)) (PP (IN in) (NP (DT the) (NN net)))) (. ?)))
+
+QuestionId: fables-06-8
+(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD did) (NP (DT the) (NN mouse)) (VP (ADVP (RB immediately)) (VB begin) (VP (VBG gnawing)))) (. ?)))
+

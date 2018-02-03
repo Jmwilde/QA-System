@@ -1,0 +1,213 @@
+QuestionId: fables-03-1
+Who	WP	5	dobj
+is	VBZ	5	cop
+the	DT	4	det
+story	NN	5	nsubj
+about	IN	0	root
+
+QuestionId: fables-03-10
+Where	WRB	8	advmod
+were	VBD	8	auxpass
+the	DT	4	det
+contents	NNS	8	nsubjpass
+of	IN	7	case
+the	DT	7	det
+horn	NN	4	nmod
+spilled	VBN	0	root
+
+QuestionId: fables-03-11
+What	WP	3	nsubjpass
+was	VBD	3	auxpass
+heated	VBN	0	root
+
+QuestionId: fables-03-12
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+Serpent	NNP	5	nsubj
+do	VBP	0	root
+in	IN	7	case
+revenge	NN	5	nmod
+
+QuestionId: fables-03-13
+Who	WP	2	nsubj
+seized	VBD	0	root
+it	PRP	2	dobj
+
+QuestionId: fables-03-14
+Who	WP	2	nsubj
+had	VBD	0	root
+its	PRP$	4	nmod:poss
+coils	NNS	2	dobj
+around	IN	6	case
+him	PRP	2	nmod
+
+QuestionId: fables-03-15
+Who	WP	0	root
+was	VBD	1	cop
+a	DT	4	det
+witness	NN	1	nsubj
+of	IN	7	case
+the	DT	7	det
+encounter	NN	4	nmod
+
+QuestionId: fables-03-16
+Who	WP	2	nsubj
+came	VBD	0	root
+to	TO	5	case
+the	DT	5	det
+assistance	NN	2	nmod
+of	IN	8	case
+the	DT	8	det
+Eagle	NNP	5	nmod
+
+QuestionId: fables-03-17
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+countryman	NN	5	nsubj
+own	VB	0	root
+
+QuestionId: fables-03-18
+Who	WP	2	nmod
+succeeded	VBD	0	root
+in	IN	4	mark
+freeing	VBG	2	advcl
+him	PRP	4	dobj
+
+QuestionId: fables-03-19
+What	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+countryman	NN	5	nsubj
+free	VB	0	root
+the	DT	7	det
+eagle	NN	5	dobj
+from	IN	1	case
+
+QuestionId: fables-03-2
+Who	WP	2	nsubj
+swooped	VBD	0	root
+down	RP	2	compound:prt
+upon	IN	6	case
+a	DT	6	det
+Serpant	NNP	2	nmod
+
+QuestionId: fables-03-20
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+Serpent	NNP	5	nsubj
+spat	VB	0	root
+
+
+QuestionId: fables-03-21
+Who	WP	2	nsubj
+spilled	VBD	0	root
+its	PRP$	4	nmod:poss
+contents	NNS	2	dobj
+
+QuestionId: fables-03-22
+Who	WP	2	nsubj
+swooped	VBD	0	root
+towards	IN	5	case
+a	DT	5	det
+snake	NN	2	nmod
+
+QuestionId: fables-03-23
+Who	WP	2	nsubj
+spiraled	VBD	0	root
+around	IN	5	case
+the	DT	5	det
+eagle	NN	2	nmod
+
+QuestionId: fables-03-24
+What	WP	7	nmod
+did	VBD	7	aux
+the	DT	4	det
+bird	NN	7	nsubj
+of	IN	6	case
+prey	NN	4	nmod
+descend	VB	0	root
+toward	IN	1	case
+
+QuestionId: fables-03-25
+Who	WP	2	nsubj
+skirmished	VBD	0	root
+with	IN	5	case
+the	DT	5	det
+serpent	NN	2	nmod
+
+QuestionId: fables-03-26
+Who	WP	2	nsubj
+tried	VBD	0	root
+to	TO	4	mark
+support	VB	2	xcomp
+the	DT	6	det
+eagle	NN	4	dobj
+
+QuestionId: fables-03-27
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+serpent	NN	5	nsubj
+spat	VBD	0	root
+some	DT	7	det
+toxin	NN	5	dobj
+
+QuestionId: fables-03-3
+What	WP	5	nmod
+did	VBD	5	aux
+the	DT	4	det
+Eagle	NNP	5	nsubj
+seize	VB	0	root
+it	PRP	5	dobj
+with	IN	1	case
+
+QuestionId: fables-03-4
+Who	WP	2	nsubj
+came	VBD	0	root
+to	TO	5	case
+the	DT	5	det
+assistance	NN	2	nmod
+of	IN	8	case
+the	DT	8	det
+Eagle	NNP	5	nmod
+
+QuestionId: fables-03-5
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+Serpent	NNP	5	nsubj
+spit	VB	0	root
+
+QuestionId: fables-03-6
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+Serpent	NNP	5	nsubj
+spit	VB	0	root
+some	DT	7	det
+poison	NN	5	dobj
+
+QuestionId: fables-03-7
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+countryman	NN	5	nsubj
+decide	VB	0	root
+
+QuestionId: fables-03-8
+Who	WP	2	nsubj
+spilled	VBD	0	root
+the	DT	5	det
+drinking	NN	5	compound
+vessel	NN	2	dobj
+
+QuestionId: fables-03-9
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+eagle	NNP	5	nsubj
+spill	VB	0	root
+

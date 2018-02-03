@@ -1,0 +1,115 @@
+There	EX	3	expl
+once	RB	3	advmod
+was	VBD	0	root
+a	DT	5	det
+fox	NN	3	nsubj
+and	CC	5	cc
+a	DT	8	det
+fowl	NN	5	conj
+
+The	DT	2	det
+fox	NN	4	nsubj
+was	VBD	4	cop
+nightly	JJ	0	root
+prowling	VBG	4	acl
+a	DT	7	det
+yard	NN	5	dobj
+
+He	PRP	3	nsubj
+was	VBD	3	aux
+stealing	VBG	0	root
+the	DT	5	det
+fowl	NN	3	dobj
+
+An	DT	2	det
+agriculturist	NN	3	nsubj
+began	VBD	0	root
+to	TO	6	mark
+be	VB	6	auxpass
+annoyed	VBN	3	xcomp
+by	IN	9	case
+the	DT	9	det
+fox	NN	6	nmod
+
+The	DT	3	det
+agriculturist	JJ	3	amod
+set	NN	5	nsubj
+a	DT	3	dep
+trap	NN	0	root
+and	CC	5	cc
+caught	VBD	5	conj
+the	DT	9	det
+fox	NN	7	dobj
+
+The	DT	2	det
+agriculturist	NN	3	nsubj
+tied	VBD	0	root
+some	DT	5	det
+fiber	NN	3	dobj
+onto	IN	8	case
+the	DT	8	det
+tail	NN	3	nmod
+of	IN	11	case
+the	DT	11	det
+fox	NN	8	nmod
+and	CC	8	cc
+in	IN	8	conj
+order	NN	13	mwe
+to	TO	16	mark
+retaliate	VB	3	advcl
+
+The	DT	2	det
+agriculturist	NN	3	nsubj
+kindled	VBD	0	root
+the	DT	5	det
+fiber	NN	3	dobj
+and	CC	3	cc
+freed	VBN	3	conj
+the	DT	9	det
+fox	NN	7	dobj
+
+The	DT	2	det
+agriculturist	NN	3	nsubj
+began	VBD	0	root
+to	TO	6	mark
+be	VB	6	cop
+unlucky	JJ	3	xcomp
+because	IN	10	mark
+the	DT	9	det
+fox	NN	10	nsubj
+ran	VBD	6	advcl
+into	IN	13	case
+a	DT	13	det
+field	NN	10	nmod
+
+Some	DT	2	det
+corn	NN	3	nsubj
+began	VBD	0	root
+to	TO	6	mark
+be	VB	6	cop
+ripe	JJ	3	xcomp
+in	IN	9	case
+the	DT	9	det
+field	NN	6	nmod
+and	CC	3	cc
+began	VBD	3	conj
+to	TO	14	mark
+be	VB	14	cop
+ready	JJ	11	xcomp
+to	TO	17	case
+a	DT	17	det
+harvest	NN	14	nmod
+
+The	DT	2	det
+corn	NN	3	nsubj
+ignited	VBN	0	root
+and	CC	3	cc
+burned	VBN	3	conj
+completely	RB	5	advmod
+
+The	DT	2	det
+agriculturist	NN	3	nsubj
+lost	VBD	0	root
+a	DT	5	det
+crop	NN	3	dobj
+

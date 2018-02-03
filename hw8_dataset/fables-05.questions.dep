@@ -1,0 +1,115 @@
+QuestionId: fables-05-1
+Who	WP	6	nmod
+was	VBD	6	cop
+the	DT	4	det
+Farmer	NNP	6	nsubj
+greatly	RB	6	advmod
+annoyed	JJ	0	root
+by	IN	1	case
+
+QuestionId: fables-05-10
+Who	WP	2	nsubj
+caught	VBD	0	root
+the	DT	4	det
+fox	NN	2	dobj
+
+QuestionId: fables-05-11
+Who	WP	2	nsubj
+freed	VBD	0	root
+the	DT	4	det
+fox	NN	2	dobj
+
+QuestionId: fables-05-12
+Why	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+agriculturist	NN	5	nsubj
+begin	VB	0	root
+to	TO	8	mark
+be	VB	8	cop
+unlucky	JJ	5	xcomp
+
+QuestionId: fables-05-13
+What	WDT	2	det
+burned	JJ	0	root
+completely	RB	2	advmod
+
+QuestionId: fables-05-14
+Who	WP	3	nsubj
+was	VBD	3	aux
+stealing	VBG	0	root
+the	DT	5	det
+chicken	NN	3	dobj
+
+QuestionId: fables-05-15
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+agriculturist	NN	5	nsubj
+ignite	VB	0	root
+
+QuestionId: fables-05-16
+Who	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+agriculturist	NN	5	nsubj
+unloosen	VB	0	root
+
+QuestionId: fables-05-2
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+Fox	NNP	5	nsubj
+make	VBP	0	root
+straight	JJ	5	xcomp
+for	IN	6	nmod
+
+QuestionId: fables-05-3
+Who	WP	2	nsubj
+lost	VBD	0	root
+all	PDT	5	det:predet
+his	PRP$	5	nmod:poss
+harvest	NN	2	dobj
+
+QuestionId: fables-05-4
+Who	WP	2	nsubj
+set	VBD	0	root
+a	DT	4	det
+trap	NN	2	dobj
+
+QuestionId: fables-05-5
+Where	WRB	5	advmod
+did	VBD	5	aux
+the	DT	4	det
+agriculturist	NN	5	nsubj
+tie	VB	0	root
+some	DT	7	det
+fiber	NN	5	nsubj
+onto	IN	5	nmod
+
+QuestionId: fables-05-6
+Who	WP	2	nsubj
+kindled	VBD	0	root
+the	DT	4	det
+fiber	NN	2	dobj
+
+QuestionId: fables-05-7
+What	WDT	2	nsubj
+ignited	VBD	0	root
+and	CC	2	cc
+burned	VBD	2	conj
+completely	RB	4	advmod
+
+QuestionId: fables-05-8
+Who	WP	2	nsubj
+lost	VBD	0	root
+a	DT	4	det
+corp	NN	2	dobj
+
+QuestionId: fables-05-9
+What	WP	5	dobj
+did	VBD	5	aux
+the	DT	4	det
+farmer	NN	5	nsubj
+lose	VB	0	root
+
