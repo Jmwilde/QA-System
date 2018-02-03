@@ -1,8 +1,8 @@
 # README #
 
 University of California Santa Cruz  
-CMPS 143 Natural Language Processing
-Spring 2017
+CMPS 143 Natural Language Processing   
+Spring 2017  
 
 A question answering system built with the Python's NLTK module. It uses
 dependency graphs, parse trees, POS tagging, wordnet, and gensim to
