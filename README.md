@@ -1,25 +1,28 @@
 # README #
 
 University of California Santa Cruz  
-CMPS 143  
-Spring 2017  
-Dr. Hardt  
+CMPS 143 Natural Language Processing
+Spring 2017
 
-A question answering system built with the Python's NLTK module.  
+A question answering system built with the Python's NLTK module. It uses
+dependency graphs, parse trees, POS tagging, wordnet, and gensim to
+analyze texts and answer simple who, what, when, where, and why
+questions.
 
 ## Team ##
-John Wilde - jmwilde@ucsc.edu  
-Ben Sherman - bcsherma@ucsc.edu  
-Ryan Kwok - rfkwok@ucsc.edu  
-Henry Ball - hball@ucsc.edu  
+John Wilde
+Ben Sherman
+Ryan Kwok  
+Henry Ball
 
-## Notes ##
-In order to use this QA system, you need the data to be in a 
-directory called "hw7_dataset" that is on the same level as the QA.py
-file. The program will look in that directory to in order to process
-the data and give answers accordingly.
+## Usage ##
+The main program is QA2.py, which is a slightly modified version of
+QA.py.
 
-Also, the main program is in QA.py. The other Python files have specific
-helper functions that the QA system uses.
+It needs to be run in the same directory as the given datasets.
+
+Example: python3 QA.py hw7_dataset/process_stories.txt
+
+
 
 
